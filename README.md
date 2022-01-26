@@ -9,8 +9,8 @@
 
 ## USACO 2021 January Contest, Bronze
 
-### 1.  [Uddered but not Herd?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1083)    &nbsp; &nbsp; &nbsp;     
+### 1.  [Uddered but not Herd?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1083)    &nbsp; &nbsp; &nbsp;     [solution](solution/jan_2021/Uddered_2021_jan.py)
 
-### 2.  [Even More Odd Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1084)       &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       
+### 2.  [Even More Odd Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1084)      &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2021/even_more_odd_photos.py)     
 
-### 3.  [Just Stalling](http://www.usaco.org/index.php?page=viewproblem2&cpid=1085)  
+### 3.  [Just Stalling](http://www.usaco.org/index.php?page=viewproblem2&cpid=1085)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [solution](solution/jan_2021/just_stalling.py)
