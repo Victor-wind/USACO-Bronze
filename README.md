@@ -18,4 +18,8 @@
 
 ##  USACO 2021 February Contest, Bronze
 
-### 1. [Year of the Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1107)    &nbsp; &nbsp; &nbsp;     [solution](solution/feb_2021/year_cow.py)
+### 1. [Year of the Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1107)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2021/year_cow.py)
+
+### 2. [Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1108)    &nbsp; &nbsp; &nbsp;  
+
+### 3. [Clockwise Fence](http://www.usaco.org/index.php?page=viewproblem2&cpid=1109)    &nbsp; &nbsp; &nbsp;     
