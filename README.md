@@ -20,6 +20,6 @@
 
 ### 1. [Year of the Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1107)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2021/year_cow.py)
 
-### 2. [Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1108)    &nbsp; &nbsp; &nbsp;  
+### 2. [Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1108)    &nbsp; &nbsp;  [solution](solution/feb_2021/comfortable_cows.py)
 
 ### 3. [Clockwise Fence](http://www.usaco.org/index.php?page=viewproblem2&cpid=1109)    &nbsp; &nbsp; &nbsp;     
