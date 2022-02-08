@@ -1,4 +1,9 @@
 # USACO-Bronze
+
+## USACO 2019 December Contest, Bronze
+### 1.  [Cow Gymnastics](http://www.usaco.org/index.php?page=viewproblem2&cpid=963)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2019/cow_gymnastics.py)
+
+
 ## USACO 2020 December Contest, Bronze
 ### 1.  [Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)    &nbsp; &nbsp; &nbsp;     [solution](solution/dec_2020/abc.py)
 
