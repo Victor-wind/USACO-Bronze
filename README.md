@@ -7,6 +7,12 @@
 
 ### 3.  [Livestock Lineup](http://www.usaco.org/index.php?page=viewproblem2&cpid=965)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2019/lineup.py)
 
+## USACO 2020 January Contest, Bronze
+### 1.  [Word Processor](http://www.usaco.org/index.php?page=viewproblem2&cpid=987)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2020/word_processor.py)
+
+### 2.  [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=988)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2020/photo_shoot.py)
+
+
 ## USACO 2020 December Contest, Bronze
 ### 1.  [Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)    &nbsp; &nbsp; &nbsp;     [solution](solution/dec_2020/abc.py)
 
