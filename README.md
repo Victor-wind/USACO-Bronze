@@ -43,7 +43,7 @@
 ### 1. [Acowdemia I](http://www.usaco.org/index.php?page=viewproblem2&cpid=1131)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2021/Acowdemia_I.py)
 
 ## USACO 2021 December Contest, Bronze
-### 1. [Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      
-### 2. [Air Cownditioning](http://www.usaco.org/index.php?page=viewproblem2&cpid=1156)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2021/ac.py)
+### 1. [Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2021/lonely_photo.py) 
+### 2. [Air Cownditioning](http://www.usaco.org/index.php?page=viewproblem2&cpid=1156)     &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2021/ac.py)
 ### 3. [Walking Home](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     
 
