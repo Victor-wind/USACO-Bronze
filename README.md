@@ -50,4 +50,4 @@
 ## USACO 2022 February Contest, Bronze
 ### 1. [Sleeping in Class](http://www.usaco.org/index.php?page=viewproblem2&cpid=1203)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     
 ### 2. [Photoshoot 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1204)     &nbsp; &nbsp; &nbsp;   [solution](solution/feb_2022/photo_shoot.py)
-### 3. [Blocks](http://www.usaco.org/index.php?page=viewproblem2&cpid=1205)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution]((solution/feb_2022/blocks.py))  
+### 3. [Blocks](http://www.usaco.org/index.php?page=viewproblem2&cpid=1205)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/feb_2022/blocks.py)  
