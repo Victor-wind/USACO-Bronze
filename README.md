@@ -45,7 +45,7 @@
 ## USACO 2021 December Contest, Bronze
 ### 1. [Lonely Photo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1155)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2021/lonely_photo.py) 
 ### 2. [Air Cownditioning](http://www.usaco.org/index.php?page=viewproblem2&cpid=1156)     &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2021/ac.py)
-### 3. [Walking Home](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     
+### 3. [Walking Home](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2021/walk.py)
 
 ## USACO 2022 February Contest, Bronze
 ### 1. [Sleeping in Class](http://www.usaco.org/index.php?page=viewproblem2&cpid=1203)    &nbsp;  [solution](solution/feb_2022/sleep.py)     
