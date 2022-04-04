@@ -3,7 +3,8 @@
 ## USACO 2019 January Contest, Bronze
 ### 1.  [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
 ### 2. [Sleepy Cow Sorting](http://www.usaco.org/index.php?page=viewproblem2&cpid=892)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/SleepyCowSorting_19_Jan.py)
-### 3.  [Guess the Animal](http://www.usaco.org/index.php?page=viewproblem2&cpid=893) 
+### 3.  [Guess the Animal](http://www.usaco.org/index.php?page=viewproblem2&cpid=893)   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/GuessAnimal_19_Jan.py)
+
 
 ## USACO 2019 December Contest, Bronze
 ### 1.  [Cow Gymnastics](http://www.usaco.org/index.php?page=viewproblem2&cpid=963)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2019/cow_gymnastics.py)
