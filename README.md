@@ -57,3 +57,9 @@
 ### 1. [Sleeping in Class](http://www.usaco.org/index.php?page=viewproblem2&cpid=1203)    &nbsp;  [solution](solution/feb_2022/sleep.py)     
 ### 2. [Photoshoot 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1204)     &nbsp; &nbsp; &nbsp;   [solution](solution/feb_2022/photo_shoot.py)
 ### 3. [Blocks](http://www.usaco.org/index.php?page=viewproblem2&cpid=1205)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/feb_2022/blocks.py)  
+
+## USACO 2022 US Open Contest, Bronze
+### 1. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1227)    &nbsp;  [solution]()     
+### 2. [Counting Liars](http://www.usaco.org/index.php?page=viewproblem2&cpid=1228)     &nbsp; &nbsp; &nbsp;   [solution]()
+### 3. [Alchemy](http://www.usaco.org/index.php?page=viewproblem2&cpid=1229)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution]()  
+
