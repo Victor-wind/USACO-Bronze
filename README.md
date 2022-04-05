@@ -60,6 +60,6 @@
 
 ## USACO 2022 US Open Contest, Bronze
 ### 1. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1227)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2022/Photoshoot_open_22.py)     
-### 2. [Counting Liars](http://www.usaco.org/index.php?page=viewproblem2&cpid=1228)   &nbsp; &nbsp;   [solution]()
+### 2. [Counting Liars](http://www.usaco.org/index.php?page=viewproblem2&cpid=1228)   &nbsp; &nbsp;   [solution](solution/open_2022/Counting_Liars_open_22.py)
 ### 3. [Alchemy](http://www.usaco.org/index.php?page=viewproblem2&cpid=1229)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution]()  
 
