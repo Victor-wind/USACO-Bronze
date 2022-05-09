@@ -1,5 +1,8 @@
 # USACO-Bronze
 
+## USACO 2017 US Open Contest, Bronze
+### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
+
 ## USACO 2019 January Contest, Bronze
 ### 1.  [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
 ### 2. [Sleepy Cow Sorting](http://www.usaco.org/index.php?page=viewproblem2&cpid=892)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/SleepyCowSorting_19_Jan.py)
@@ -38,7 +41,7 @@
 
 ##  USACO 2021 February Contest, Bronze
 
-### 1. [Year of the Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1107)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2021/year_cow.py)
+### 1. [Year of the Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1107)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py)
 
 ### 2. [Comfortable Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1108)    &nbsp; &nbsp;  [solution](solution/feb_2021/comfortable_cows.py)
 
