@@ -1,7 +1,7 @@
 # USACO-Bronze
 
 ## USACO 2017 US Open Contest, Bronze
-### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
+### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 
 ## USACO 2019 January Contest, Bronze
 ### 1.  [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
