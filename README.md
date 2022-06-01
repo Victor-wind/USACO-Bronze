@@ -1,5 +1,8 @@
 # USACO-Bronze
 
+## USACO 2015 December Contest, Bronze
+### 2.  [Speeding Ticket](http://www.usaco.org/index.php?page=viewproblem2&cpid=568)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2015/speed_ticket.py) 
+
 ## USACO 2017 US Open Contest, Bronze
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 
