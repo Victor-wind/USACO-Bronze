@@ -6,6 +6,10 @@
 ## USACO 2017 US Open Contest, Bronze
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 
+## USACO 2018 December Contest, Bronze
+### 2.  [The Bucket List](http://www.usaco.org/index.php?page=viewproblem2&cpid=856)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2018/Bucket_18_dec.py) 
+
+
 ## USACO 2019 January Contest, Bronze
 ### 1.  [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
 ### 2. [Sleepy Cow Sorting](http://www.usaco.org/index.php?page=viewproblem2&cpid=892)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/SleepyCowSorting_19_Jan.py)
