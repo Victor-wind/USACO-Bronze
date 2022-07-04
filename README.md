@@ -12,6 +12,8 @@
 ## USACO 2018 December Contest, Bronze
 ### 2.  [The Bucket List](http://www.usaco.org/index.php?page=viewproblem2&cpid=856)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2018/Bucket_18_dec.py) 
 
+## USACO 2018 US Open Contest, Bronze
+### 2.  [Team Tic Tac Toe](http://www.usaco.org/index.php?page=viewproblem2&cpid=831)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2018/Bucket_18_dec.py)
 
 ## USACO 2019 January Contest, Bronze
 ### 1.  [Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2019/Shell_Game_jan2019.py) 
