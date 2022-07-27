@@ -12,8 +12,12 @@
 ## USACO 2016 February Contest, Bronze
 ### 1.  [Milk Pails](http://www.usaco.org/index.php?page=viewproblem2&cpid=615)      &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2016/milk_pails.py) 
 
+## USACO 2016 US Open Contest, Bronze
+### 1.  [Diamond Collector](http://www.usaco.org/index.php?page=viewproblem2&cpid=615)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2016/diamond_collector.py) 
+
+
 ## USACO 2017 US Open Contest, Bronze
-### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
+### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 
 ## USACO 2018 December Contest, Bronze
 ### 2.  [The Bucket List](http://www.usaco.org/index.php?page=viewproblem2&cpid=856)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2018/Bucket_18_dec.py) 
