@@ -44,6 +44,10 @@
 ### 2.  [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=988)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2020/photo_shoot.py)
 
 
+## USACO 2020 February Contest, Bronze
+### 1.  [Triangles](http://www.usaco.org/index.php?page=viewproblem2&cpid=1011)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2020/triangles.py)
+
+
 ## USACO 2020 December Contest, Bronze
 ### 1.  [Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)    &nbsp; &nbsp; &nbsp;     [solution](solution/dec_2020/abc.py)
 
