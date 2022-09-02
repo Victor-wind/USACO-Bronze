@@ -19,6 +19,10 @@
 ## USACO 2017 US Open Contest, Bronze
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 
+## USACO 2018 January Contest, Bronze
+### 1.  [Lifeguards](http://www.usaco.org/index.php?page=viewproblem2&cpid=784)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2018/Lifeguards.py) 
+
+
 ## USACO 2018 December Contest, Bronze
 ### 2.  [The Bucket List](http://www.usaco.org/index.php?page=viewproblem2&cpid=856)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2018/Bucket_18_dec.py) 
 
