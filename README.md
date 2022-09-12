@@ -18,6 +18,7 @@
 
 ## USACO 2017 US Open Contest, Bronze
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
+### 2.  [Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=736)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/Genomics.py) 
 
 ## USACO 2018 January Contest, Bronze
 ### 1.  [Lifeguards](http://www.usaco.org/index.php?page=viewproblem2&cpid=784)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2018/Lifeguards.py) 
