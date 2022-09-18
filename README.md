@@ -15,8 +15,12 @@
 ## USACO 2016 US Open Contest, Bronze
 ### 1.  [Diamond Collector](http://www.usaco.org/index.php?page=viewproblem2&cpid=615)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2016/diamond_collector.py) 
 
+## USACO 2017 February Contest, Bronze
+### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)    &nbsp; &nbsp;      [solution](solution/feb_2017/cross_road_II.py) 
+
 
 ## USACO 2017 US Open Contest, Bronze
+
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
 ### 2.  [Bovine Genomics](http://www.usaco.org/index.php?page=viewproblem2&cpid=736)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/Genomics.py) 
 
