@@ -17,7 +17,7 @@
 
 ## USACO 2017 February Contest, Bronze
 ### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)    &nbsp; &nbsp;      [solution](solution/feb_2017/cross_road_II.py) 
-
+### 3.  [Why Did the Cow Cross the Road III](http://www.usaco.org/index.php?page=viewproblem2&cpid=713)    &nbsp; &nbsp;      [solution](solution/feb_2017/cross_road_III.py)
 
 ## USACO 2017 US Open Contest, Bronze
 
