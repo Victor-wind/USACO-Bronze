@@ -4,6 +4,8 @@
 ### 2.  [Speeding Ticket](http://www.usaco.org/index.php?page=viewproblem2&cpid=568)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2015/speed_ticket.py) 
 
 ## USACO 2016 January Contest, Bronze
+### 2.  [Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=592)    &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2016/angry.py) 
+
 ### 3.  [Mowing the Field](http://www.usaco.org/index.php?page=viewproblem2&cpid=593)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/jan_2016/mow_16_jan.py) 
 
 ## USACO 2016 December Contest, Bronze
