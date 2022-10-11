@@ -45,7 +45,19 @@ for l in input_list:
             win_2_set.add((l[0], l[2]))
         else:
             win_2_set.add((l[0], l[1]))
-               
+            
+'''
+# This is a better solution
+for l in input_list:
+    x = set(l)
+    if len(x) == 1:
+        win_1_set.add(tuple(x))
+    if len(x) == 2:
+        y = list(x)
+        y.sort()
+        # print(f'{y=}')
+        win_2_set.add(tuple(y))      
+'''               
 
 print(len(win_1_set))
 print(win_1_set)
@@ -55,4 +67,3 @@ print(win_2_set)
 with open('tttt.out','w') as f:
      f.write(f'{len(win_1_set)}\n')
      f.write(f'{len(win_2_set)}\n')
-   
