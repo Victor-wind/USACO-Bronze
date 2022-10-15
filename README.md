@@ -21,6 +21,9 @@
 ### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=712)    &nbsp; &nbsp;      [solution](solution/feb_2017/cross_road_II.py) 
 ### 3.  [Why Did the Cow Cross the Road III](http://www.usaco.org/index.php?page=viewproblem2&cpid=713)    &nbsp; &nbsp;      [solution](solution/feb_2017/cross_road_III.py)
 
+## USACO 2017 US January Contest, Bronze
+### 1.  [Don't Be Last!](http://www.usaco.org/index.php?page=viewproblem2&cpid=687)    &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;      [solution](solution/jan_2017/notlast.py) 
+
 ## USACO 2017 US Open Contest, Bronze
 
 ### 1.  [The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=639)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/open_2017/LostCow_17_open_Jan.py) 
