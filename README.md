@@ -23,6 +23,7 @@
 
 ## USACO 2017 US January Contest, Bronze
 ### 1.  [Don't Be Last!](http://www.usaco.org/index.php?page=viewproblem2&cpid=687)    &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;      [solution](solution/jan_2017/notlast.py) 
+### 3.  [Cow Tipping](http://www.usaco.org/index.php?page=viewproblem2&cpid=689)      &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;     [solution](solution/jan_2017/cowtipping.py) 
 
 ## USACO 2017 US Open Contest, Bronze
 
