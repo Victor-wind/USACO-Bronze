@@ -70,7 +70,7 @@
 
 ### 2.  [Daisy Chains](http://www.usaco.org/index.php?page=viewproblem2&cpid=1060)       &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        [solution](solution/dec_2020/daisy_chains.py)
 
-### 3.  [Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1061)  
+### 3.  [?Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1061)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        [solution](solution/dec_2020/stuck.py)
 
 
 ## USACO 2021 January Contest, Bronze
