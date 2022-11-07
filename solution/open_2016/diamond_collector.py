@@ -1,3 +1,15 @@
+with open('diamond.in') as f:
+    lines = f.readlines()
+
+lines_0 = [int(x) for x in lines[0].split()]
+
+N, K = lines_0[0], lines_0[1]
+print(lines_0)
+
+diamonds = []
+for i in range(1, 1+N):
+   diamonds.append(int(lines[i]))
+
 diamonds.sort()
 
 print(diamonds)
