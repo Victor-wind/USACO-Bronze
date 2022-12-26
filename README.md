@@ -109,3 +109,7 @@
 ### 2. [Counting Liars](http://www.usaco.org/index.php?page=viewproblem2&cpid=1228)   &nbsp; &nbsp;   [solution](solution/open_2022/Counting_Liars_open_22.py)
 ### 3. [Alchemy](http://www.usaco.org/index.php?page=viewproblem2&cpid=1229)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution]()  
 
+## USACO 2022 December Contest, Bronze
+### 1. [Cow College](http://www.usaco.org/index.php?page=viewproblem2&cpid=1251)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2022/college.py)     
+### 2. [Feeding the Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1252)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2022/feed.py)
+### 3. [Reverse Engineering](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](olution/dec_2022/reverse.py)  
