@@ -13,6 +13,16 @@ def getpatch_from_end(N:int, patch: list):
       i -= 1
    return i
 
+# if the cows move to the full distance i+K, there is no conflict: H and G will not move to the same position as they start from different position. 
+# when reaching the end, H / G may not move to full distance because of boundary limit i+K >= N. So conflict is possible. 
+# in this case, the cows need to use the empty slots from the end. 
+# the conflict may happen in 2 cases: 1. a cow moves to i+K from i, but [i+K] is occupied by another cow, who could not move to full distance. 
+# 2. a cow could not move to full distance, so it searches backward from the end till finding an empty patch. 
+# in both cases, the greedy algorithm still works, as explained below. 
+
+# Case 1: H wants to move from [i] to [i+K], but [i+K] is occupied by G, as G did not move to  full distance. 
+#         we should know that [i+K] is the last slot [N-1], since short moves only happens at most once for H and G. 
+
 def allocate_patch_cow(cows: str, N: int, K: int, patch: list, H_G: str):
    cnt = 0
    i = 0
