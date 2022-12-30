@@ -21,7 +21,12 @@ def getpatch_from_end(N:int, patch: list):
 # in both cases, the greedy algorithm still works, as explained below. 
 
 # Case 1: H wants to move from [i] to [i+K], but [i+K] is occupied by G, as G did not move to  full distance. 
-#         we should know that [i+K] is the last slot [N-1], since short moves only happens at most once for H and G. 
+#         we should know that [i+K] should be the last slot [N-1], since short moves only happens at most once for H and G. 
+#         H searches backward from [N-1], and [N-1] is occupied by G. it should use [N-2], which should be empty. 
+# Case 2: H wants to move from [i] to [i+K], but [i+K] is beyound boundary: i+K >= N. So it needs search back from the end. 
+#         Any slot from [i] to [N-1] should be good for H. 
+#         patch [i] is good enough for H (i+K>N), if patch [i] is occupied by G, then patch [i+1] (i+1 is not the last one) is empty.
+#         if i is the last one and occupied by G, then patch [i-1] (N-2) is empty and good for H.   
 
 def allocate_patch_cow(cows: str, N: int, K: int, patch: list, H_G: str):
    cnt = 0
