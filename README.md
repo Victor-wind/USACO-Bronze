@@ -112,4 +112,4 @@
 ## USACO 2022 December Contest, Bronze
 ### 1. [Cow College](http://www.usaco.org/index.php?page=viewproblem2&cpid=1251)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2022/college.py)     
 ### 2. [Feeding the Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=1252)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2022/feed.py)
-### 3. [Reverse Engineering](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](olution/dec_2022/reverse.py)  
+### 3. [Reverse Engineering](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253)     &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2022/reverse.py)  
