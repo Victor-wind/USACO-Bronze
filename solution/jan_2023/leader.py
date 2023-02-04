@@ -27,7 +27,9 @@ last_G  = last_cow(cows, 'G')
 def find_pairs():
     pairs = 0
     if cows[0] == 'G':
-        # lead must be the first_H 
+        # lead must be the first_H : if the lead is Not the first_H - > lead H must contain lead G 
+        # -> lead G is after lead H -> it is NOT possible: a. lead G cann't contain lead H (position is after H)
+        # b. lead G cann't contain all the cows of breed G (the first cow is G)
         if cows_l[first_H] < last_H:
             return 0
         # loop through cows for how many G could pair with first_H 
