@@ -116,6 +116,6 @@
 
 ## USACO 2023 January Contest, Bronze
 ### 1. [Leaders](http://www.usaco.org/index.php?page=viewproblem&cpid=1263)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2023/leader.py)     
-### 2. [Air Cownditioning II](http://www.usaco.org/index.php?page=viewproblem&cpid=1264)   &nbsp; &nbsp;   [solution](solution/jan_2023/ac.py)
+### 2. [Air Cownditioning II](http://www.usaco.org/index.php?page=viewproblem&cpid=1264)   &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2023/ac.py)
 ### 3. [Moo Operations](http://www.usaco.org/index.php?page=viewproblem&cpid=1265)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2023/moo.py) 
 
