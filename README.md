@@ -115,9 +115,9 @@
 ### 3. [Reverse Engineering](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253)     &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2022/reverse.py) 
 
 ## USACO 2023 January Contest, Bronze
-### 1. [Leaders](http://www.usaco.org/index.php?page=viewproblem&cpid=1263)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2023/leader.py)     
-### 2. [Air Cownditioning II](http://www.usaco.org/index.php?page=viewproblem&cpid=1264)   &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2023/ac.py)
-### 3. [Moo Operations](http://www.usaco.org/index.php?page=viewproblem&cpid=1265)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2023/moo.py) 
+### 1. [Leaders](http://www.usaco.org/index.php?page=viewproblem&cpid=1275)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2023/leader.py)     
+### 2. [Air Cownditioning II](http://www.usaco.org/index.php?page=viewproblem&cpid=1276)   &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2023/ac.py)
+### 3. [Moo Operations](http://www.usaco.org/index.php?page=viewproblem&cpid=1277)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2023/moo.py) 
 
 ## USACO 2023 February Contest, Bronze
 ### 1. [Hungry Cow](http://www.usaco.org/index.php?page=viewproblem&cpid=1287)     
