@@ -119,3 +119,7 @@
 ### 2. [Air Cownditioning II](http://www.usaco.org/index.php?page=viewproblem&cpid=1264)   &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2023/ac.py)
 ### 3. [Moo Operations](http://www.usaco.org/index.php?page=viewproblem&cpid=1265)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2023/moo.py) 
 
+## USACO 2023 February Contest, Bronze
+### 1. [Hungry Cow](http://www.usaco.org/index.php?page=viewproblem&cpid=1287)     
+### 2. [Stamp Grid](http://www.usaco.org/index.php?page=viewproblem&cpid=1288)  
+### 3. [Watching Mooloo](http://www.usaco.org/index.php?page=viewproblem&cpid=1289)   
