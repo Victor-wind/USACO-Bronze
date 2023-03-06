@@ -122,4 +122,4 @@
 ## USACO 2023 February Contest, Bronze
 ### 1. [Hungry Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=1299)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2023/hungry_cow.py)      
 ### 2. [Stamp Grid](http://www.usaco.org/index.php?page=viewproblem2&cpid=1300)    &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2023/stamp.py)      
-### 3. [Watching Mooloo](http://www.usaco.org/index.php?page=viewproblem&cpid=1289)   
+### 3. [Watching Mooloo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1301)  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2023/watch.py)        
