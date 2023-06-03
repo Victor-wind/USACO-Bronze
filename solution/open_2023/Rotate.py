@@ -1,3 +1,7 @@
+'''
+This simple solution will time out for Inputs 8-13: No additional constraints.
+Refer to an efficient solution at http://www.usaco.org/current/data/sol_prob3_bronze_open23.html
+'''
 N, K, T = [int(x) for x in input().rstrip().split()]
 A = [int(x) for x in input().rstrip().split()]
 
