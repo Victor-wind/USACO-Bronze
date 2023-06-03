@@ -125,5 +125,6 @@
 ### 3. [Watching Mooloo](http://www.usaco.org/index.php?page=viewproblem2&cpid=1301)  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2023/watch.py)        
 
 ## USACO 2023 US Open Contest, Bronze
-### 1. [FEB](http://www.usaco.org/index.php?page=viewproblem2&cpid=1323)    &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2023/Feb.py)  
+### 1. [FEB](http://www.usaco.org/index.php?page=viewproblem2&cpid=1323)    &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2023/Feb.py)  
 ### 2. [Moo Language](http://www.usaco.org/index.php?page=viewproblem2&cpid=1324)    &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2023/Moo.py) 
+### 3. [Rotate and Shift](http://www.usaco.org/index.php?page=viewproblem2&cpid=1325)   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2023/Rotate.py)
