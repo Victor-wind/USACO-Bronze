@@ -10,7 +10,9 @@ for i in range(M):
             eat = min(cane_h,heights_cow[j]) - cane_l
             heights_cow[j] += eat
             cane_l += eat
+        # if the whole candy is eaten, break the loop
+        if cane_h == cane_l:
+            break        
 
 for h in heights_cow:
     print(h)
-        
