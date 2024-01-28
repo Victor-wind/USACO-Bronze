@@ -133,3 +133,8 @@
 ### 1. [Candy Cane Feast](http://www.usaco.org/index.php?page=viewproblem2&cpid=1347)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2023/candy_cane.py)     
 ### 2. [Cowntact Tracing 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2023/tracing.py)
 ### 3. [Farmer John Actually Farms](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;   [solution](solution/dec_2023/farm.py) 
+
+## USACO 2024 January Contest, Bronze
+### 1. [MAJORITY OPINION](http://www.usaco.org/index.php?page=viewproblem2&cpid=1275)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2024/opinion.py)     
+### 2. [Cannonball](http://www.usaco.org/index.php?page=viewproblem2&cpid=1276)   &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2024/cannonball.py)
+### 3. [Balancing Bacteria](http://www.usaco.org/index.php?page=viewproblem2&cpid=1277)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2024/bacteria.py) 
