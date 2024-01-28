@@ -130,6 +130,6 @@
 ### 3. [Rotate and Shift](http://www.usaco.org/index.php?page=viewproblem2&cpid=1325)   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2023/Rotate.py)
 
 ## USACO 2023 December Contest, Bronze
-### 1. [Candy Cane Feast](http://www.usaco.org/index.php?page=viewproblem2&cpid=1251)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2023/candy_cane.py)     
-### 2. [Cowntact Tracing 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1252)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2023/tracing.py)
-### 3. [Farmer John Actually Farms](http://www.usaco.org/index.php?page=viewproblem2&cpid=1253)     &nbsp; &nbsp;   [solution](solution/dec_2023/farm.py) 
+### 1. [Candy Cane Feast](http://www.usaco.org/index.php?page=viewproblem2&cpid=1347)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2023/candy_cane.py)     
+### 2. [Cowntact Tracing 2](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2023/tracing.py)
+### 3. [Farmer John Actually Farms](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;   [solution](solution/dec_2023/farm.py) 
