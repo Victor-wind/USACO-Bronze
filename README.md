@@ -138,3 +138,8 @@
 ### 1. [Majority Opinion](http://www.usaco.org/index.php?page=viewproblem2&cpid=1275)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2024/opinion.py)     
 ### 2. [Cannonball](http://www.usaco.org/index.php?page=viewproblem2&cpid=1276)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2024/cannonball.py)
 ### 3. [Balancing Bacteria](http://www.usaco.org/index.php?page=viewproblem2&cpid=1277)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2024/bacteria.py) 
+
+## USACO 2024 February Contest, Bronze
+### 1. [Palindrome Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=1299)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/palindrome_game.py)      
+### 2. [Milk Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1300)    &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/milk_exchange.py)      
+### 3. [Maximizing Productivity](http://www.usaco.org/index.php?page=viewproblem2&cpid=1301)  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/max_productivity.py)    
