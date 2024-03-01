@@ -135,9 +135,9 @@
 ### 3. [Farmer John Actually Farms](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;   [solution](solution/dec_2023/farm.py) 
 
 ## USACO 2024 January Contest, Bronze
-### 1. [Majority Opinion](http://www.usaco.org/index.php?page=viewproblem2&cpid=1275)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2024/opinion.py)     
-### 2. [Cannonball](http://www.usaco.org/index.php?page=viewproblem2&cpid=1276)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2024/cannonball.py)
-### 3. [Balancing Bacteria](http://www.usaco.org/index.php?page=viewproblem2&cpid=1277)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2024/bacteria.py) 
+### 1. [Majority Opinion](http://www.usaco.org/index.php?page=viewproblem2&cpid=1371)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2024/opinion.py)     
+### 2. [Cannonball](http://www.usaco.org/index.php?page=viewproblem2&cpid=1372)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2024/cannonball.py)
+### 3. [Balancing Bacteria](http://www.usaco.org/index.php?page=viewproblem2&cpid=1373)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2024/bacteria.py) 
 
 ## USACO 2024 February Contest, Bronze
 ### 1. [Palindrome Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=1299)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/palindrome_game.py)      
