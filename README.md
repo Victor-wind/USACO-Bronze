@@ -141,7 +141,7 @@
 
 ## USACO 2024 February Contest, Bronze
 ### 1. [Palindrome Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=1395)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/palindrome_game.py)      
-### 2. [Milk Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)    &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/milk_exchange.py)      
+### 2. [Milk Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/milk_exchange.py)      
 ### 3. [Maximizing Productivity](http://www.usaco.org/index.php?page=viewproblem2&cpid=1397)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/max_productivity.py)    
 
 ## USACO 2024 US Open Contest, Bronze
