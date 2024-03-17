@@ -141,10 +141,10 @@
 
 ## USACO 2024 February Contest, Bronze
 ### 1. [Palindrome Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=1395)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/palindrome_game.py)      
-### 2. [Milk Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/milk_exchange.py)      
+### 2. [Milk Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)    &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/milk_exchange.py)      
 ### 3. [Maximizing Productivity](http://www.usaco.org/index.php?page=viewproblem2&cpid=1397)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2024/max_productivity.py)    
 
 ## USACO 2024 US Open Contest, Bronze
 ### 1. [Logical Moos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1323)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/moos.py)  
-### 2. [Walking Along a Fence](http://www.usaco.org/index.php?page=viewproblem2&cpid=1324)  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/WalkingFence.py) 
-### 3. [Farmer John's Favorite Permutation](http://www.usaco.org/index.php?page=viewproblem2&cpid=1325)    &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/permutation.py)
+### 2. [Walking Along a Fence](http://www.usaco.org/index.php?page=viewproblem2&cpid=1324)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/WalkingFence.py) 
+### 3. [Farmer John's Favorite Permutation](http://www.usaco.org/index.php?page=viewproblem2&cpid=1325)   &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/permutation.py)
