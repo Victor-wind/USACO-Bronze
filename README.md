@@ -100,8 +100,8 @@
 ### 3. [Walking Home](http://www.usaco.org/index.php?page=viewproblem2&cpid=1157)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/dec_2021/walk.py)
 
 ## USACO 2022 January Contest, Bronze
-### 1. [Herdle](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1179)    &nbsp; &nbsp; &nbsp; &nbsp;  [solution]??(solution/jan_2022/herdle.py)     
-### 2. [Non-Transitive Dice](http://www.usaco.org/index.php?page=viewproblem2&cpid=1180)     &nbsp; &nbsp; &nbsp;   [solution]??(solution/jan_2022/dices.py)
+### 1. [Herdle](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1179)    &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2022/herdle.py)     
+### 2. [Non-Transitive Dice](http://www.usaco.org/index.php?page=viewproblem2&cpid=1180)     &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2022/dices.py)
 ### 3. [Drought](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1181)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution]??(solution/jan_2022/drought.py)  
 
 ## USACO 2022 February Contest, Bronze
