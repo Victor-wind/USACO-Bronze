@@ -153,3 +153,9 @@
 ### 1. [Logical Moos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/moos.py)  
 ### 2. [Walking Along a Fence](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/WalkingFence.py) 
 ### 3. [Farmer John's Favorite Permutation](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/permutation.py)
+
+## USACO 2024 December Contest, Bronze
+### 1. [Roundabount Rounding](http://www.usaco.org/index.php?page=viewproblem2&cpid=1347)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2024/roundabount.py)     
+### 2. [Farmer John's Cheese Block](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2024/cheese_block.py)
+### 3. [It's Mooin' Time](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;   [solution](solution/dec_2024/mooin_time.py) 
+
