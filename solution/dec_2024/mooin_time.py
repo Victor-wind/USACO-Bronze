@@ -23,7 +23,8 @@ def process_words(moo_dic, moo, F, result_set):
     return
     
 for i in range(N):
-    # replace a letter from ascii_letters
+    # replace a letter from ascii_letters, need to removed them, then add back after the loop
+    # example:  vovoo. When replacing second 'v' with 'o', moo_dic adds 'voo', but also needs to remove the original 'voo'
     replaced = [None]*3
     if (i+2) < N and letters[i+1] == letters[i+2] and letters[i] != letters[i+1]:
         replaced[0] = letters[i]+letters[i+1]+letters[i+2]
