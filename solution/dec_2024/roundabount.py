@@ -14,7 +14,9 @@ for i in range(2, 11):
     nums_lst[i] =  base_max-base_min+1
     base_max = base_max*10+9
     base_min = base_min*10-5   
-# nums_lst stores differenct arounds numbers of ith digits
+# nums_lst stores differenct arounds numbers which have ith digits
+# fo example, with 2 digits [45 .. 49]; with 3 digits [445, 499];
+# with 4 digits [4445, 4999]; with 5 digits [44445, 49999];
 #print(nums_lst)
 
 nums_sum_lst = [0] * 11
@@ -30,9 +32,11 @@ for _ in range(T):
     # how many digits does k_int/k_str has?
     n = len(k_str)
     # differenct arounds numbers can be divided into 2 parts:
-    # a: numbers < 9...9 {10^(n-1)-1}; b: numbers with n digits.
+    # a: numbers < 9...9 {10^(n-1)-1}; b: numbers with exact n digits between 44..45 and 49..9.
     a_cnt = nums_sum_lst[n-1]
     min_num = int('4'*n)+1
+    max_num = int('4'+'9'*(n-1))
+    k_int = min(max_num,k_int)
     b_cnt = 0 if k_int < min_num else (k_int-min_num+1)
     #print(f'{k_int=} {k_str=} {min_num=} {a_cnt=} {b_cnt=} {a_cnt+b_cnt}')
     print(a_cnt+b_cnt)
