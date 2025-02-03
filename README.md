@@ -159,4 +159,8 @@
 ### 2. [Farmer John's Cheese Block](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;    [solution](solution/dec_2024/cheese_block.py)
 ### 3. [It's Mooin' Time](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2024/mooin_time.py) 
 
+## USACO 2025 January Contest, Bronze
+### 1. [Astral Superposition](http://www.usaco.org/index.php?page=viewproblem2&cpid=1371)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2025/superosition.py)     
+### 2. [It's Mooin' Time II](http://www.usaco.org/index.php?page=viewproblem2&cpid=1372)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2025/moos.py)
+### 3. [Cow Checkups](http://www.usaco.org/index.php?page=viewproblem2&cpid=1373)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
 
