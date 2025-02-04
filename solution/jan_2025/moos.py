@@ -9,7 +9,7 @@ for v in a:
     cnt_right[v] += 1   
 
 total = 0
-dist_left = set() # it can use a list to count the distinct numbers as well
+dist_left = set() # it can use a list as set to count the distinct numbers as well
 for i, v in enumerate(a):
     # when cnt_right[v] == 2, there are only one num v after index i, 
     # so combine disct numbers before index i with 2 v to get moo (x, v, v)
