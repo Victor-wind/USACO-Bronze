@@ -21,3 +21,6 @@ for i, v in enumerate(a):
     dist_left.add(v)
 
 print(total)
+
+# The above solution combines all disct numbers (x) BEFORE index i (v) to get moo (x, v, v);
+# The complementary search also works: enumerate array, for each unique x, combines all disct number pairs (v, v) AFTER it.
