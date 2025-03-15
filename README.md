@@ -155,14 +155,14 @@
 ### 3. [Farmer John's Favorite Permutation](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp; &nbsp; &nbsp;  [solution](solution/open_2024/permutation.py)
 
 ## USACO 2024 December Contest, Bronze
-### 1. [Roundabount Rounding](http://www.usaco.org/index.php?page=viewproblem2&cpid=1347)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2024/roundabount.py)     
-### 2. [Farmer John's Cheese Block](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;    [solution](solution/dec_2024/cheese_block.py)
-### 3. [It's Mooin' Time](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2024/mooin_time.py) 
+### 1. [Roundabount Rounding](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1443)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/dec_2024/roundabount.py)     
+### 2. [Farmer John's Cheese Block](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1444)   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;    [solution](solution/dec_2024/cheese_block.py)
+### 3. [It's Mooin' Time](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1445)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   [solution](solution/dec_2024/mooin_time.py) 
 
 ## USACO 2025 January Contest, Bronze
-### 1. [Astral Superposition](http://www.usaco.org/index.php?page=viewproblem2&cpid=1371)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2025/superosition.py)     
-### 2. [It's Mooin' Time II](http://www.usaco.org/index.php?page=viewproblem2&cpid=1372)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2025/moos.py)
-### 3. [Cow Checkups](http://www.usaco.org/index.php?page=viewproblem2&cpid=1373)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
+### 1. [Astral Superposition](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1467)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2025/superosition.py)     
+### 2. [It's Mooin' Time II](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1468)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2025/moos.py)
+### 3. [Cow Checkups](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1469)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
 
 ## USACO 2025 February Contest, Bronze
 ### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1395)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
