@@ -16,12 +16,12 @@ for i in range(1,N+1):
     missed[i] = total_cnt
 
 for i in range(N+1):
-    # in order to make the mex of a equal i, there are 2 conditions
+    # in order to make the mex of a equals to i, there are 2 conditions
     # a: zero i in list a
     # b: no missing integers [0, i-1] inclusive
     # so it needs missed[i] operations for condition b
     # and needs cnt[i] operations for condition a
-    # if cnt[i] >= missed[i], only needs cnt[i] operations, as it converts missed[i] i integers into missed integers
-    # if missed[i] > cnt[i], converts all cnt[i] i integers into missed integers,
-    #    then do extra (missed[i] - cnt[i]) operation to satisfy remaining missed[i], so need missed[i] operations totally
+    # if cnt[i] >= missed[i], only needs cnt[i] operations, as it can convert (missed[i]) integers into the missed integers from cnt[i]
+    # if missed[i] > cnt[i], converts all (cnt[i]) integers into the missed integers,
+    # then do extra (missed[i] - cnt[i]) operation to satisfy remaining missed[i], so need total missed[i] operations
     print(max(cnt[i], missed[i]))
