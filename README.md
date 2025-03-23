@@ -165,6 +165,6 @@
 ### 3. [Cow Checkups](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1469)     &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
 
 ## USACO 2025 February Contest, Bronze
-### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1395)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
-### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
-### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1397)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
+### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1491)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
+### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
+### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
