@@ -161,10 +161,10 @@
 
 ## USACO 2025 January Contest, Bronze
 ### 1. [Astral Superposition](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1467)        &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2025/superosition.py)     
-### 2. [It's Mooin' Time II](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1468)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2025/moos.py)
-### 3. [Cow Checkups](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1469)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
+### 2. [It's Mooin' Time II](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1468)   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  [solution](solution/jan_2025/moos.py)
+### 3. [Cow Checkups](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1469)     &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/jan_2025/checks.py) 
 
 ## USACO 2025 February Contest, Bronze
 ### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1395)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
-### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
+### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1396)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
 ### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1397)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
