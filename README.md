@@ -166,5 +166,5 @@
 
 ## USACO 2025 February Contest, Bronze
 ### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1491)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
-### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
+### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1492)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
 ### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
