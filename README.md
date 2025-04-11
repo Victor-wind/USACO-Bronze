@@ -168,3 +168,8 @@
 ### 1. [Reflection](http://www.usaco.org/index.php?page=viewproblem2&cpid=1491)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/reflection.py)      
 ### 2. [Making Mexes](http://www.usaco.org/index.php?page=viewproblem2&cpid=1492)      &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/mex.py)      
 ### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
+
+## USACO 2025 US Open Contest, Bronze
+### 1. [Hoof Paper Scissors Minus One](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/paper.py)  
+### 2. [More Cow Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/photos.py) 
+### 3. [It's Mooin' Time III](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/mooing.py)
