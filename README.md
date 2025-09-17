@@ -47,7 +47,8 @@
 
 ## USACO 2019 February Contest, Bronze
 ### 1.  [Sleepy Cow Herding](http://www.usaco.org/index.php?page=viewproblem2&cpid=915)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2019/cow_herding.py)
-### 1.  [The Great Revegetation](http://www.usaco.org/index.php?page=viewproblem2&cpid=916)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2019/revegetation.py) 
+### 2.  [The Great Revegetation](http://www.usaco.org/index.php?page=viewproblem2&cpid=916)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2019/revegetation.py) 
+### 3.  [Measuring Traffic](http://www.usaco.org/index.php?page=viewproblem2&cpid=917)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2019/traffic.py)
 
 ## USACO 2019 December Contest, Bronze
 ### 1.  [Cow Gymnastics](http://www.usaco.org/index.php?page=viewproblem2&cpid=963)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/dec_2019/cow_gymnastics.py)
