@@ -29,7 +29,6 @@ result = len(pairs_result)
 with open('gymnastics.out','w') as f:
     f.write(f'{result}')
 
-
 '''
 f = open('gymnastics.in')
 lines = f.readlines()
