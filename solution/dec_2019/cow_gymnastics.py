@@ -1,47 +1,34 @@
+def get_pairs(cows: list):
+    n = len(cows)
+    pairs = set()
+    for i in range(n):
+        for j in range(i+1, n):
+            pair = (cows[j],cows[i])
+            pairs.add(pair)        
+    return pairs 
 
 with open('gymnastics.in') as f:
     lines = f.readlines()
+
+K, N = [ int(x) for x in lines[0].split()]
+
+cows_lst = list()
+for i in range(K):
+    cows = [ int(x) for x in lines[i+1].split()]
+    cows_lst.append(cows)
     
+#print(cows_lst)
+pairs_result = get_pairs(cows_lst[0])
+#print(pairs_result)
+for cows in cows_lst:
+    pairs = get_pairs(cows)
+    pairs_result = pairs_result & pairs
 
-K, N = lines[0].split()
+print(pairs_result)
+result = len(pairs_result)
+with open('gymnastics.out','w') as f:
+    f.write(f'{result}')
 
-K = int(K)
-N = int(N)
-
-# print(K, N)
-
-    
-def print_dic(d):
-    for k,v in pos_dic.items():
-        print("k=",k, " v=",v)
-        
-    
-pos_dic = {}
-for i in range(1, N+1):
-    for j in range(1, N+1):
-        key = (str(i),str(j))
-        pos_dic[key] = None
-        
-for i in range(1,K+1):
-    s = lines[i].split()
-    for k in range(N):
-        for t in range(k+1, N):
-            key_1 = (s[k],s[t])
-            
-            if pos_dic[key_1] is None:                
-                pos_dic[key_1] = 1
-            
-            key_2 = (s[t],s[k])
-            pos_dic[key_2] = 0
-
-
-cnt = 0
-for k,v in pos_dic.items():
-    if v == 1:
-        cnt += 1
-
-with open('gymnastics.out', 'w') as f:
-    f.write(str(cnt))
 
 '''
 f = open('gymnastics.in')
