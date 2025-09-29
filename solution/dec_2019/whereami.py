@@ -1,31 +1,27 @@
-
 with open('whereami.in') as f:
     lines = f.readlines()
 
-mail_box  = lines[1]
+N = int(lines[0])
+mail_box  = lines[1].strip()[0:N]
+print(mail_box)
 
-def unique_str(mail_box):
+def check_value(mail_box, k):
     n = len(mail_box)
-    search_set = set()
-    res = n
-    
-    for k in range(1,n):
-        search_set.clear()
-        for i in range(0, n-k+1):
-            t = mail_box[i: i+k]
-            #print(t)
-            if t in search_set:
-                break;
-            search_set.add(t)
-        
-        if i+1 == len(search_set) and i == n-k:
-            res = k
-            #print('i==',i)
-            return k
+    boxes_k = set()
+    for i in range(k-1,n):
+        sub_str = mail_box[i-k+1:i+1]
+        if sub_str in boxes_k:
+            return False
+        else:
+            boxes_k.add(sub_str)
+    return True
 
-    return res
+result = N
+for k in range(1, N):
+    if check_value(mail_box, k):
+        result = k
+        break
 
-res = unique_str(mail_box)
+print(result)
 with open('whereami.out', 'w') as f:
-    f.write(str(res))
-    
+    f.write(str(result))   
