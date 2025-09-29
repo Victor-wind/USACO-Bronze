@@ -1,94 +1,44 @@
-
 with open('lineup.in') as f:
-    lines_N = f.readlines()
+    lines = f.readlines()
 
+N = int(lines[0])
 cows = ['Sue', 'Bessie', 'Buttercup', 'Belinda', 'Beatrice',
         'Bella', 'Blue', 'Betsy']
 
 cows.sort()
-cow_nums = ['1','2','3','4','5','6','7','8']
+nums = [i for i in range(1,9)]
+cows_dic = dict(zip(cows,nums))
 
-cows_to_num = dict(zip(cows,cow_nums))
-
-#print(cows_to_num)
-
-'''
-lines = ['Betsy must be milked beside Belinda',
-         'Buttercup must be milked beside Sue',
-         'Beatrice must be milked beside Bessie',
-         'Betsy must be milked beside Sue'
-         ]
-
-
-lines = ['Sue must be milked beside Bessie',
-         'Sue must be milked beside Beatrice',
-         'Beatrice must be milked beside Betsy',
-         'Bella must be milked beside Bessie'
-         ]
-'''
-
-lines = lines_N[1::]
-
-relations = []
-
-for line in lines:
-    line_list = line.split()
-    nums = [ cows_to_num[line_list[0]]+cows_to_num[line_list[-1]], cows_to_num[line_list[-1]]+cows_to_num[line_list[0]]]
-    relations.append(nums)
-    
-print(relations)
-
-N = len(relations)
-
+graph = [[] for _ in range(9)]
+# print(cows_dic)
 for i in range(N):
-    for j in range(N):
-        if i == j or relations[i] == None or relations[j] == None:
-            continue        
-       
-        # there are 8 combinations, but only 2 are possile.
-        new_combine = []
-        for r1 in relations[i]:
-            for r2 in relations[j]:
-                if r1[-1] == r2[0]:
-                    x = r1+r2[1:]
-                    new_combine.append(x)
-                if r2[-1] == r1[0]:
-                    x = r2+r1[1:]
-                    new_combine.append(x)
-        if len(new_combine) > 0:
-            relations[i] = new_combine
-            relations[j] = None
-        
-        #print("in loop: ", relations)
+    words = lines[i+1].split()
+    node_i = cows_dic[words[0]]
+    node_j = cows_dic[words[-1]]
+    graph[node_i].append(node_j)
+    graph[node_j].append(node_i)
 
-print("after merge:", relations)
-
-sorted_relation = []
-for r in relations:
-    if r is not None:
-        r.sort()
-        sorted_relation.append(r[0])
-        
-#print(sorted_relation)
-
-for r in sorted_relation:
-    #print(r)   
-    for c in r:
-        index = ord(c)- ord('1')
-        cow_nums[index] = None
-        
-print(cow_nums)
-
-for cow in cow_nums:
-    if cow is not None:
-        sorted_relation.append(cow)
-
-sorted_relation.sort()
-print(sorted_relation)
+edge_nodes = [i for i in range(1, 9) if len(graph[i]) < 2]
+# print(f'{graph=}')
+# print(f'{edge_nodes=}')
+result_num = list()
+visited = [False] * 9
+for i in edge_nodes:
+    if visited[i]: continue
+    # it should use queue, but in this problem, there is at most 1 element in queue, we can use list as stack
+    st = list()
+    st.append(i)
+    while len(st) > 0:
+        k = st.pop()
+        visited[k] = True
+        result_num.append(k)
+        for j in graph[k]:
+            if not visited[j]:
+                st.append(j)
+# print(f'{result_num=}')
+num_to_cow = {v:k for k, v in cows_dic.items()}
 
 with open('lineup.out', 'w') as f:
-    for r in sorted_relation:
-        for c in r:
-            k = ord(c)-ord('1')
-            print(cows[k])
-            f.write(cows[k]+'\n')
+    for i in result_num:
+        print(num_to_cow[i])
+        f.write(num_to_cow[i]+'\n')
