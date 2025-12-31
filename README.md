@@ -66,6 +66,10 @@
 ## USACO 2020 February Contest, Bronze
 ### 1.  [Triangles](http://www.usaco.org/index.php?page=viewproblem2&cpid=1011)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/feb_2020/triangles.py)
 
+## USACO 2020 US Open, Bronze
+### 1.  [Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)    &nbsp; &nbsp; &nbsp;     [solution](solution/open_2020/abc.py)
+
+### 2.  [](http://www.usaco.org/index.php?page=viewproblem2&cpid=1060)       &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        [solution](solution/open_2020/daisy_chains.py)
 
 ## USACO 2020 December Contest, Bronze
 ### 1.  [Do You Know Your ABCs?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)    &nbsp; &nbsp; &nbsp;     [solution](solution/dec_2020/abc.py)
@@ -172,6 +176,6 @@
 ### 3. [Printing Sequences](http://www.usaco.org/index.php?page=viewproblem2&cpid=1493)  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2025/seq.py)  
 
 ## USACO 2025 US Open Contest, Bronze
-### 1. [Hoof Paper Scissors Minus One](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)   &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/paper.py)  
-### 2. [More Cow Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/photos.py) 
-### 3. [It's Mooin' Time III](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/mooing.py)
+### 1. [Hoof Paper Scissors Minus One](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)    &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/paper.py)  
+### 2. [More Cow Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)   &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/photos.py) 
+### 3. [It's Mooin' Time III](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/open_2025/mooing.py)
