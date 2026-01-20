@@ -31,7 +31,8 @@ def solution(case):
     b_needed = cb - B - 1 # don't trigger convertion 
     result += b_needed
     result += 1
-    return result
+    return result      
+        
 
 for case in test_cases:
     print(solution(case))
