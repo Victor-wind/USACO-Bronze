@@ -179,3 +179,8 @@
 ### 1. [Hoof Paper Scissors Minus One](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/paper.py)  
 ### 2. [More Cow Photos](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)    &nbsp; &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/open_2025/photos.py) 
 ### 3. [It's Mooin' Time III](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/open_2025/mooing.py)
+
+## USACO 2026 First Contest, Bronze
+### 1. [Chip Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/chip.py)  
+### 2. [COW Splits](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/chip.py) 
+### 3. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/jan_2026/chip.py)
