@@ -182,5 +182,5 @@
 
 ## USACO 2026 First Contest, Bronze
 ### 1. [Chip Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1419)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/chip.py)  
-### 2. [COW Splits](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/chip.py) 
-### 3. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/jan_2026/chip.py)
+### 2. [COW Splits](http://www.usaco.org/index.php?page=viewproblem2&cpid=1420)      &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/split.py) 
+### 3. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1421)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/jan_2026/chip.py)
