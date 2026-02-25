@@ -183,9 +183,9 @@
 ## USACO 2026 First Contest, Bronze
 ### 1. [Chip Exchange](http://www.usaco.org/index.php?page=viewproblem2&cpid=1539)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/chip.py)  
 ### 2. [COW Splits](http://www.usaco.org/index.php?page=viewproblem2&cpid=1540)      &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/jan_2026/split.py) 
-### 3. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1541)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/jan_2026/chip.py)
+### 3. [Photoshoot](http://www.usaco.org/index.php?page=viewproblem2&cpid=1541)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/jan_2026/photo.py)
 
 ## USACO 2026 Second Contest, Bronze
 ### 1. [It's Mooin' Time IV](http://www.usaco.org/index.php?page=viewproblem2&cpid=1563)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2026/moo_time.py)  
-### 2. [Moo Hunt](http://www.usaco.org/index.php?page=viewproblem2&cpid=1564)       &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2026/split.py) 
+### 2. [Moo Hunt](http://www.usaco.org/index.php?page=viewproblem2&cpid=1564)       &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2026/moo_hunt.py) 
 ### 3. [Purchasing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=1565)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/feb_2026/purchase_milk.py)
