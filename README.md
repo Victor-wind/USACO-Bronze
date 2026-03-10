@@ -189,3 +189,8 @@
 ### 1. [It's Mooin' Time IV](http://www.usaco.org/index.php?page=viewproblem2&cpid=1563)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2026/moo_time.py)  
 ### 2. [Moo Hunt](http://www.usaco.org/index.php?page=viewproblem2&cpid=1564)       &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/feb_2026/moo_hunt.py) 
 ### 3. [Purchasing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=1565)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/feb_2026/purchase_milk.py)
+
+## USACO 2026 Second Contest, Bronze
+### 1. [Make All Distinct](http://www.usaco.org/index.php?page=viewproblem2&cpid=1563)     &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/march_2026/distinct.py)  
+### 2. [Strange Function](http://www.usaco.org/index.php?page=viewproblem2&cpid=1564)       &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [solution](solution/march_2026/strange.py) 
+### 3. [Swap to Win](http://www.usaco.org/index.php?page=viewproblem2&cpid=1565)    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  [solution](solution/march_2026/swap_win.py)
